@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585084274 source:c:\users\obarogie osas\documents\c files\gpa calculator 400lvl\main.c
+	<stdio.h>
+	<string.h>
+
